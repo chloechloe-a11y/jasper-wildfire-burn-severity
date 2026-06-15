@@ -17,7 +17,7 @@ The 2024 Jasper wildfire (started July 22, 2024) was one of Canada's most destru
 | Satellite imagery | Copernicus Browser | Sentinel-2 L2A, pre-fire (Jul 20) and post-fire (Aug 19) |
 | NBR calculation | ArcGIS Pro (Raster Calculator) | NBR = (B8A − B12) / (B8A + B12) |
 | dNBR calculation | ArcGIS Pro (Raster Calculator) | dNBR = Pre-fire NBR − Post-fire NBR |
-| Clip to study area | ArcGIS Pro | Clipped to Jasper National Park boundary |
+| Study area | Copernicus Browser | Imagery downloaded to cover the Jasper fire area (rectangular footprint within the park boundary) |
 | Classification | ArcGIS Pro (Reclassify) | USGS 7-class burn severity scheme |
 | Cartography | ArcGIS Pro (Layout) | Final map composition and export |
 
