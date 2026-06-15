@@ -1,5 +1,5 @@
 # Jasper 2024 Wildfire Burn Severity Mapping
-## Remote Sensing Project — Sentinel-2 + QGIS
+## Remote Sensing Project — Sentinel-2 + ArcGIS Pro
 **Method:** UN-SPIDER Recommended Practice (dNBR)  
 **Study Area:** Jasper National Park, Alberta, Canada  
 **Fire Event:** Jasper Wildfire Complex, July–August 2024
