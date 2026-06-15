@@ -1,5 +1,5 @@
 ## USGS Burn Severity Classification Rules
-## For use with r.reclass in QGIS (after multiplying dNBR × 1000)
+## For use with Reclassify tool in ArcGIS Pro (after multiplying dNBR × 1000)
 ## dNBR range × 1000 → class value
 
 thru -501 = 0  NULL (no data)
