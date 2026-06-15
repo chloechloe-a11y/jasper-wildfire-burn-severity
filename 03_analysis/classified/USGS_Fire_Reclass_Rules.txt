@@ -1,0 +1,14 @@
+## USGS Burn Severity Classification Rules
+## For use with r.reclass in QGIS (after multiplying dNBR × 1000)
+## dNBR range × 1000 → class value
+
+thru -501 = 0  NULL (no data)
+-500 thru -251 = 1  Enhanced Regrowth High
+-250 thru -101 = 2  Enhanced Regrowth Low
+-100 thru 99 = 3  Unburned
+100 thru 269 = 4  Low Severity
+270 thru 439 = 5  Moderate-Low Severity
+440 thru 659 = 6  Moderate-High Severity
+660 thru 1300 = 7  High Severity
+499500 thru 500500 = 8  Cloud (exclude from analysis)
+end

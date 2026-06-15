@@ -1,0 +1,30 @@
+# Large raster files
+*.tif
+*.tiff
+*.jp2
+*.img
+
+# Zip files
+*.zip
+
+# ArcGIS geodatabase
+*.gdb/
+
+# Sidecar/cache files
+*.aux.xml
+*.xml
+*.tfw
+*.ovr
+*.cpg
+*.dbf
+*.shx
+*.sbn
+*.sbx
+*.prj
+*.lock
+*.vat.dbf
+*.vat.CPG
+
+# ArcGIS project files
+*.aprx
+*.tbx
