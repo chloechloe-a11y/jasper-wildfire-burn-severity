@@ -10,6 +10,22 @@ The 2024 Jasper wildfire (started July 22, 2024) was one of Canada's most destru
 
 ![Burn Severity Map](05_outputs/maps/burn_severity_map.png)
 
+## Key Results
+
+| Severity Class | Pixel Count | Area (ha) |
+|---------------|------------|-----------|
+| Increased Greenness High | 17,054 | 2,357 |
+| Increased Greenness Low | 100,598 | 13,903 |
+| Unburned | 2,605,249 | 360,045 |
+| Low Severity | 142,907 | 19,750 |
+| Moderate-Low Severity | 58,740 | 8,117 |
+| Moderate-High Severity | 63,524 | 8,778 |
+| High Severity | 180,475 | 24,939 |
+
+**Moderate-to-high severity total: 41,834 ha — 67.9% of total burned area detected in the imagery**
+
+> Area calculated from pixel counts × pixel size (~1,382 m²/pixel at ~53°N in geographic coordinates).
+
 ## Method
 
 | Step | Tool | Description |

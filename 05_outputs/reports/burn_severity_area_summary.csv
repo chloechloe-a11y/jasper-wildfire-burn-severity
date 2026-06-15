@@ -1,0 +1,10 @@
+class_value,class_name,pixel_count,area_ha,pct_of_burned
+-2,No Data,-2,3,0.00
+-1,No Data,-1,2669,0.00
+1,Increased Greenness High,17054,2357,0.00
+2,Increased Greenness Low,100598,13903,0.00
+3,Unburned,2605249,360045,0.00
+4,Low Severity,142907,19750,32.06
+5,Moderate-Low Severity,58740,8117,13.18
+6,Moderate-High Severity,63524,8778,14.25
+7,High Severity,180475,24939,40.50
